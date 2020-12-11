@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D661D1AC-202B-4952-A348-1C75D2E5C1AA}|Play in Editor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Board.cs">
+    <Files>
+      <File FileName="Board.cs" Line="132" Column="9" />
+      <File FileName="Square.cs" Line="24" Column="2" />
+      <File FileName="DebugBoard.cs" Line="20" Column="56" />
+      <File FileName="Piece.cs" Line="78" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Faeries Chess" expanded="True">
+            <Node name="Faeries Chess" expanded="True">
+              <Node name="Board.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Faeries_220Chess PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
